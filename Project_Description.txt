@@ -1,0 +1,4 @@
+﻿Title: PIR Motion Sensor Alarm
+Overview: Basic PIR motion alarm that drives an LED and buzzer while reporting activity over serial.
+Hardware: Arduino Uno, HC-SR501 PIR sensor, LED, buzzer.
+Notes: Threshold logic keeps the alarm latched until movement stops for stability.
