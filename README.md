@@ -1,4 +1,6 @@
-﻿# PIR Motion Sensor Alarm
+﻿# PIR Motion Sensor
+
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Security-red) ![Status](https://img.shields.io/badge/status-Active-success)
 
 Basic PIR motion alarm that drives an LED and buzzer while reporting activity over serial.
 
